@@ -1,0 +1,22 @@
+==========================
+          Device
+==========================
+- Update Kernel To 4.19.325-Nurture-R4a 20251109, with KernelSU v2.1.0 and bpf 5.10 backports
+
+==========================
+          Source
+==========================
+- Strong Play Integrity now passes by default
+- Fixed Play Store app compatibility issue (e.g. JioFinance now installs correctly)
+- Added Google Pay Tap-to-Pay fix (requires valid unrevoked keybox for long-term use)
+- Added spoofing options for:
+  • Snapchat
+  • Netflix
+  • Google App
+- Added option to disable Play Store spoof
+- Added toggle to disable in-ROM PlayIntegrityFix for external module users (InfinitySuite > Miscellaneous > Spoofing > Play integrity fix)
+- Fixed Hide Screen Capture Status feature
+- Added Ambient Media Art toggle
+- Updated Monet settings (chroma & luminance sliders can now have negative values)
+- Enabled Install Available Apps in Settings
+- Added LMOFreeForm translations
