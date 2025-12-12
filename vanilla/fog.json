@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.4-fog-09.11.2025-VANILLA-UNOFFICIAL.zip",
-			"download": "https://github.com/RazaDroidProject/releases/releases/download/InfinityX-20251109-fog/Project_Infinity-X-3.4-fog-09.11.2025-VANILLA-UNOFFICIAL.zip",
-			"timestamp": 1762690150,
-			"md5": "a1d150e4ac745a2f2e7f8cf4d1b41138",
-			"size": 1221323606,
-			"version": "3.4"
+			"filename": "Project_Infinity-X-3.5-fog-12.12.2025-VANILLA-UNOFFICIAL.zip",
+			"download": "https://github.com/RazaDroidProject/releases/releases/download/InfinityX-20251212-fog/Project_Infinity-X-3.5-fog-12.12.2025-VANILLA-UNOFFICIAL.zip",
+			"timestamp": 1765541674,
+			"md5": "07b9fcccf4b8a5dbe3cf49030a32af67",
+			"size": 1219038082,
+			"version": "3.5"
 		}
 	]
 }
