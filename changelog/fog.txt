@@ -1,4 +1,3 @@
-- Add MIUI Camera
-- Add ViPER4Android FX
-- Updated To InfinityX v3.6
-- January Security Patch
+- Updated To InfinityX v3.7
+- February Security Patch
+- Updated Kernel To 4.19.325-cip127-st11-Cirno 20260201, with KernelSU 32285 and bpf 5.10 backports

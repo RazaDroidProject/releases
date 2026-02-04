@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-fog-18.01.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://github.com/RazaDroidProject/releases/releases/download/InfinityX-20260118-fog/Project_Infinity-X-3.6-fog-18.01.2026-GAPPS-UNOFFICIAL.zip",
-			"timestamp": 1768711040,
-			"md5": "509a3171e53527810ef16e0aeabaa00f",
-			"size": 1799684951,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-fog-10.02.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://github.com/RazaDroidProject/releases/releases/download/InfinityX-20260210-fog/Project_Infinity-X-3.7-fog-10.02.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1770749786,
+			"md5": "3203ba65882d91cded73804d3f1845a5",
+			"size": 1750164638,
+			"version": "3.7"
 		}
 	]
 }
